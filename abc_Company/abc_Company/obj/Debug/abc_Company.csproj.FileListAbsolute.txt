@@ -1,0 +1,21 @@
+C:\Users\The Forge\Desktop\abc_Company\abc_Company\bin\Debug\abc_Company.exe.config
+C:\Users\The Forge\Desktop\abc_Company\abc_Company\bin\Debug\abc_Company.exe
+C:\Users\The Forge\Desktop\abc_Company\abc_Company\bin\Debug\abc_Company.pdb
+C:\Users\The Forge\Desktop\abc_Company\abc_Company\obj\Debug\abc_Company.csprojResolveAssemblyReference.cache
+C:\Users\The Forge\Desktop\abc_Company\abc_Company\obj\Debug\abc_Company.Form1.resources
+C:\Users\The Forge\Desktop\abc_Company\abc_Company\obj\Debug\abc_Company.Properties.Resources.resources
+C:\Users\The Forge\Desktop\abc_Company\abc_Company\obj\Debug\abc_Company.csproj.GenerateResource.Cache
+C:\Users\The Forge\Desktop\abc_Company\abc_Company\obj\Debug\abc_Company.exe
+C:\Users\The Forge\Desktop\abc_Company\abc_Company\obj\Debug\abc_Company.pdb
+C:\Users\nat1130\Desktop\abc_Company\abc_Company\bin\Debug\abc_Company.exe.config
+C:\Users\nat1130\Desktop\abc_Company\abc_Company\obj\Debug\abc_Company.exe
+C:\Users\nat1130\Desktop\abc_Company\abc_Company\obj\Debug\abc_Company.pdb
+C:\Users\nat1130\Desktop\abc_Company\abc_Company\bin\Debug\abc_Company.exe
+C:\Users\nat1130\Desktop\abc_Company\abc_Company\bin\Debug\abc_Company.pdb
+C:\Users\nat1130\Desktop\abc_Company\abc_Company\obj\Debug\abc_Company.csprojResolveAssemblyReference.cache
+C:\Users\nat1130\Desktop\abc_Company\abc_Company\obj\Debug\abc_Company.Form1.resources
+C:\Users\nat1130\Desktop\abc_Company\abc_Company\obj\Debug\abc_Company.Properties.Resources.resources
+C:\Users\nat1130\Desktop\abc_Company\abc_Company\obj\Debug\abc_Company.csproj.GenerateResource.Cache
+C:\Users\The Forge\Downloads\abc_Company (2)\abc_Company\abc_Company\bin\Debug\abc_Company.exe.config
+C:\Users\The Forge\Downloads\abc_Company (2)\abc_Company\abc_Company\obj\Debug\abc_Company.exe
+C:\Users\The Forge\Downloads\abc_Company (2)\abc_Company\abc_Company\obj\Debug\abc_Company.pdb
